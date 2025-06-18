@@ -4,7 +4,7 @@ Este projeto consiste em uma landing page de autenticação desenvolvida com HTM
 
 ## 🔍 Prévia do Projeto
 
-![Screenshot do Projeto](https://via.placeholder.com/900x500?text=Preview+da+Landing+Page)
+![Preview da Landing Page](./Captura%20de%20tela%202025-06-18%20131808.png)
 
 > Tela de login com design limpo, ideal para portfólios, sistemas web ou páginas de autenticação.
 
